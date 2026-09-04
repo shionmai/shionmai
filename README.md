@@ -45,8 +45,10 @@
 
   <div>
     <h2>shipping !!!</h2>
+    <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <details>
       <summary>Stuff about my preferred ships</summary>
+      <p></p>
       <p>lets be freaks together !! im open to talk about all and any ships - but i just have my preferred dynamics lol</p>
       <ul style="list-style-type: square;">
         <li>Ateez: 8tz x Seonghwa, 8tz x Jongho</li>
