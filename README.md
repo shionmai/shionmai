@@ -18,7 +18,7 @@
   <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <img align="right" src="images/jjonghwa.png" alt="Your Image Description" width="200"> <img align="right" src="images/jjonghwa1.png" alt="Your Image Description" width="200">    
+    <img align="right" src="images/jjonghwa.png" alt="jjonghwa" width="200"> <img align="right" src="images/jjonghwa1.png" alt="jjonghwa" width="200">    
     <ul style="list-style-type: square;">
       <li>Ateez: Seonghwa & Jongho</li>
       <li>Seventeen: DK & Jun</li>
@@ -30,17 +30,6 @@
       <li>Lucy: love them all lol</li>
     </ul>
     <br clear="right"/>
-  </div>
-
-  <div>
-    <h2>active games !!!</h2>
-    <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
-    <ul style="list-style-type: square;">
-      <li>Phigros (@shion_019)</li>
-      <li>Sekiro</li>
-      <li>Control</li>
-      <li>Nu:Carnival</li>
-    </ul>
   </div>
 
   <div>
@@ -60,5 +49,16 @@
         <li>Wuthering Waves: Sanhua x Jinhsi</li>
       </ul>
     </details>
+  </div>
+
+  <div>
+    <h2>active games !!!</h2>
+    <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
+    <ul style="list-style-type: square;">
+      <li>Phigros (@shion_019)</li>
+      <li>Sekiro</li>
+      <li>Control</li>
+      <li>Nu:Carnival</li>
+    </ul>
   </div>
 </div>
