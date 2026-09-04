@@ -49,7 +49,8 @@
     <details>
       <summary>Stuff about my preferred ships</summary>
       <p></p>
-      <p>lets be freaks together !! im open to talk about all and any ships - but i just have my preferred dynamics lol</p>
+      <p>lets be freaks together !!</p>
+      <p>im open to talk about all and any ships - but i just have my preferred dynamics lol</p>
       <ul style="list-style-type: square;">
         <li>Ateez: 8tz x Seonghwa, 8tz x Jongho</li>
         <li>Seventeen: JeongCheol, Svt x DK</li>
