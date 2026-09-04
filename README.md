@@ -43,4 +43,19 @@
     </ul>
   </div>
 
+  <div>
+    <h2>shipping !!!</h2>
+    <details>
+      <summary>Stuff about my preferred ships</summary>
+      <p>lets be freaks together !! im open to talk about all and any ships - but i just have my preferred dynamics lol</p>
+      <ul style="list-style-type: square;">
+        <li>Ateez: 8tz x Seonghwa, 8tz x Jongho</li>
+        <li>Seventeen: JeongCheol, Svt x DK</li>
+        <li>Xikers: Junminjae, WooJung</li>
+        <li>Project Sekai: Everyone x Honami, Ichikana</li>
+        <li>Limbus Company: Rodion x Gregor</li>
+        <li>Wuthering Waves: Sanhua x Jinhsi</li>
+      </ul>
+    </details>
+  </div>
 </div>
