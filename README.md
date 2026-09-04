@@ -37,9 +37,9 @@
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
     <ul style="list-style-type: square;">
       <li>Phigros (@shion_019)</li>
-      <li>Everhood</li>
-      <li>Dark Souls 3</li>
-      <li>The Talos Principle</li>
+      <li>Sekiro</li>
+      <li>Control</li>
+      <li>Nu:Carnival</li>
     </ul>
   </div>
 
