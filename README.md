@@ -14,8 +14,10 @@
     <p>i usually hang out around the prsk area or above the bakery in both safe and 18+ server ^^</p>
     <p>i am a freelance artist and programmer. i also do a lot of game dev!</p>
     <p><a href="https://github.com/shionmai/fandom-map">Fandom Map</a> &emsp; <a href="https://shionmai.atabook.org/">新book</a></p>
+    <img src="https://komarev.com/ghpvc/?username=shionmai&color=ff69b4" alt="Profile Views" />  
     <p></p>
   </div>
+  
   <div>
     <h2>fandoms !!!</h2>
     <p>⊹ ࣪ ˖ ────୨ৎ────⊹ ࣪ ˖ ⊹</p>
