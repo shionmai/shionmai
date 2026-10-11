@@ -47,6 +47,7 @@
         <li>Ateez: 8tz x Seonghwa, 8tz x Jongho</li>
         <li>Seventeen: JeongCheol, Svt x DK</li>
         <li>Xikers: Junminjae, WooJung</li>
+        <li>Aespa: Winrina</li>
         <li>Project Sekai: Everyone x Honami, Ichikana</li>
         <li>Limbus Company: Rodion x Gregor</li>
         <li>Wuthering Waves: Sanhua x Jinhsi</li>
